@@ -8,7 +8,7 @@ All input and output files are within folder [./data/](./data/). The historical 
 
 ## Install
 
-To run the python scripts first download the scripts and the [./corpus/](./corpus/) and [./data/](./data/) folders. Install python 2.7 and use `pip install -r requirements.txt`. 
+To run the python scripts first download the scripts and the [./corpus/](./corpus/) and [./data/](./data/) folders. Install python and use `pip install -r requirements.txt`. 
 
 
 ## Extracting collocates
